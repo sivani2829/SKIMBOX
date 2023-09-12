@@ -1,0 +1,74 @@
+
+.light-background{
+    background-color: #e1fcf3;
+    font-weight:bold;
+    font-size:15px;
+    text-align:center;
+    /* height:20px;
+    width:300px; */
+  }
+  .para-second{
+    font-weight:bold;
+    font-size:15px;
+  }
+  .para-third{
+    font-size:14px;
+    font-weight:400;
+  }
+  .month{
+    width:30px;
+    
+  }
+  .cost{
+    font-weight:bold;
+  }
+  .side-heading{
+    font-size:17px;
+    font-weight:bold;
+  }
+  .check-class{
+    font-size:14px;
+    font-weight:500;
+  }
+  .free-button{
+    background-color: black;
+    color:white;
+    border-radius:20px;
+    font-weight:600;
+    width:270px;
+    height:39px;
+  }
+  .trail-button{
+    background-color: black;
+    color:white;
+    border-radius:20px;
+    font-weight:600;
+    width:139px;
+    height:31px;
+    font-size:15px;
+  
+  }
+  .center-button{
+    border: solid 2px #83f7e0;
+    border-radius:28px;
+  }
+  .pay-button {
+    background-color: black;
+    color:white;
+    border-radius:20px;
+    font-weight:600;
+    width:139px;
+    height:36px;
+    font-size:15px;
+  }
+  .main-cont{
+    background-image:linear-gradient(to right, white, white,white, #b6faf7);
+  }
+  .logo{
+    width:100px;
+    height:33px;
+  }
+  .border-cls{
+    border-bottom:solid 5px #83f7e0;
+    cursor:pointer;
+  }
